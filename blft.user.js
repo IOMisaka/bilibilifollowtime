@@ -6,6 +6,8 @@
 // @author       IOMisaka
 // @match        https://space.bilibili.com/*
 // @grant        none
+// @license      https://creativecommons.org/licenses/by-sa/4.0/
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // ==/UserScript==
 
 (function() {
