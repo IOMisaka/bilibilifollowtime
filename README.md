@@ -7,7 +7,7 @@
 
 已有Tampermonkey
 
-+ 点击安装[blft.user.js](blft.user.js)
++ 点击安装[blft.user.js](https://github.com/IOMisaka/bilibilifollowtime/raw/main/blft.user.js)
 
 # 效果图
 ![img](1.webp)
